@@ -1,2 +1,2 @@
-name = input()
-print(f"{name}??!")
+id = input()
+print(id + "??!")
